@@ -12,21 +12,21 @@
     border-radius: 46px;
     background-color: #FFF;
 }
-
-.header_nav {
+.header_nav{
     margin-inline: 357px;
 
 }
 
-.header_li {
+.header_li{
     display: inline;
     font-family: Nerko One;
     font-size: 20px;
     font-weight: 400;
     line-height: 30px
+    
 }
 
-.middle_li {
+.middle_li{
     margin-inline: 51px;
 
 }
@@ -44,35 +44,7 @@ button {
     align-items: center;
     background-color: #FFF;
 }
-
-.d_inline {
+.d_inline{
     display: inline-block;
     vertical-align: middle;
-}
-
-article {
-    width: 780px;
-    margin: 200px auto;
-}
-
-.article_h {
-    color: #4D4D4D;
-    text-align: center;
-    font-family: Poppins;
-    font-size: 48px;
-    font-weight: 500;
-    line-height: 130%;
-}
-
-.article_p {
-    color: #656565;
-    text-align: justify;
-    font-family: Nerko One;
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 150%;
-}
-.first_p{
-    margin-top: 60px;
-    margin-bottom: 52px;
 }
