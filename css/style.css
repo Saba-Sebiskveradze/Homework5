@@ -1,0 +1,50 @@
+.main_header {
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #2A9D8F;
+    padding: 38px 130px;
+}
+
+.tree_icon {
+    width: 46px;
+    height: 46px;
+    padding: 10px 12.614px 10px 13px;
+    border-radius: 46px;
+    background-color: #FFF;
+}
+.header_nav{
+    margin-inline: 357px;
+
+}
+
+.header_li{
+    display: inline;
+    font-family: Nerko One;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px
+    
+}
+
+.middle_li{
+    margin-inline: 51px;
+
+}
+
+
+button {
+    display: inline;
+    color: #2A9D8F;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    padding: 8px 16px;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFF;
+}
+.d_inline{
+    display: inline-block;
+    vertical-align: middle;
+}
